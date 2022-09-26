@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Casa</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <style>
+        body,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5 {
+            font-family: "Raleway", sans-serif
+        }
+
+        .w3-third img {
+            margin-bottom: -6px;
+            opacity: 0.8;
+            cursor: pointer
+        }
+
+        .w3-third img:hover {
+            opacity: 1
+        }
+    </style>
+</head>
+
+<body>
+    <!-- About section -->
+    <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
+        <img src=img/casa1.png alt="Me" class="w3-image w3-padding-32" width="600" height="650">
+        <div class="w3-content w3-justify" style="max-width:600px">
+            <h4>Casa residencial</h4>
+            <p> Magnífica casa recém construída com 1.400m² com detalhes em mármore. Possui design feito por Victim Do Pneu com total integração a todos os ambientes. A sala principal possui pé direito triplo com 12 metros.
+                Você pode contar com 4 suítes, todos os armários planejados, cozinha equipada e completa, área de
+                serviço, dependência de empregados e área de armazenamento. Toda a área externa possui paisagismo, além de duas piscinas, adulta de 20m e uma infantil,
+                hidromassagem e sauna. Para completar, um amplo espaço gourmet para receber convidados e vagas cobertas
+                para 12 veículos. A casa está localizada numa rua totalmente residencial, próximo a praças e há apenas 5min de carro do
+                shopping Iguatemi de São Paulo. Há museus, bares e restaurantes próximos. Não perca sua chance de conhecer essa incrível mansão em uma das melhores áreas de São Paulo. Possui todo o conforto e segurança que você e sua família precisam! Horários para visitas flexíveis 7 dias por semana. Entre em contato já!
+            </p>
+            <p>email: example@example.com</p>
+            <p>tel: 5353 35531</p>
+            <hr class="w3-opacity">
+
+            <h4 class="w3-padding-16">Valor imobiliário</h4>
+            <div class="w3-row-padding" style="margin:0 -16px">
+                <div class="w3-half w3-margin-bottom">
+                    <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+                        <li class="w3-black w3-xlarge w3-padding-32">Avista</li>
+                        <li class="w3-padding-16">Dinheiro</li>
+                        <li class="w3-padding-16">Cartão</li>
+                        <li class="w3-padding-16">
+                            <h2>R$ 50.000.000</h2>
+                        </li>
+                        <li class="w3-light-grey w3-padding-24">
+                            <button class="w3-button w3-white w3-padding-large">COMPRAR</button>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="w3-half">
+                    <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
+                        <li class="w3-black w3-xlarge w3-padding-32">Parcelado</li>
+                        <li class="w3-padding-16">Dinheiro</li>
+                        <li class="w3-padding-16">Cartão</li>
+                        <li class="w3-padding-16">
+                            <h2>$ 55.000.000</h2>
+                        </li>
+                        <li class="w3-light-grey w3-padding-24">
+                            <button class="w3-button w3-white w3-padding-large">COMPRAR</button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
